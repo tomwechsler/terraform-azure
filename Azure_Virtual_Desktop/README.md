@@ -31,7 +31,7 @@ Most of the scripts assume you are using the `westeurope` region. But you should
 
 ## COST $ $ $
 
-Resources in Azure are **not free** and as such running through the exercises will cost you money. I recommend shutting down VMs when they are not in use. You can also choose smaller VM sizes or pick a lower tier of storage for the OS disk. Special caution goes for the Azure Firewall deployment, which cannot be "turned off" and runs about $1.25 an hour. Likewise, Azure Bastion is about $0.19 per hour, which is not as bad, but could still rack up some bills if you leave it deployed.
+Resources in Azure are **not free** and as such running through the exercises will cost you money. I recommend shutting down VMs when they are not in use. You can also choose smaller VM sizes or pick a lower tier of storage for the OS disk. Special care should be taken with Azure Firewall deployment, which cannot be "turned off" and costs about $1.25 per hour. Azure Bastion also costs about $0.19 per hour, which isn't that bad, but can still cause some bills if you leave it in place.
 
 ## Conclusion
 
