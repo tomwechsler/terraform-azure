@@ -6,5 +6,5 @@ vnet_hub_subnets = {
   AzureBastionSubnet = "10.10.3.0/26"
 }
 dc_private_ip_address = "10.10.1.4"
-dc_ad_domain_name     = "tomsazure.ch"
-dc_ad_netbios_name    = "TOMSAZURE"
+dc_ad_domain_name     = "cloudtrain.tech"
+dc_ad_netbios_name    = "CLOUDTRAIN"

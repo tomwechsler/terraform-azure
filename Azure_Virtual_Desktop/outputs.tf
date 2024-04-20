@@ -15,15 +15,15 @@ output "dc_domain" {
 }
 
 output "vnet_id" {
-  value = azurerm_virtual_network.vnet_hub.id
+  value = azurerm_virtual_network.hubrg.id
 }
 
 output "vnet_name" {
-  value = azurerm_virtual_network.vnet_hub.name
+  value = azurerm_virtual_network.hubrg.name
 }
 
 output "vnet_resource_group" {
-  value = azurerm_resource_group.vnet_hub.name
+  value = azurerm_resource_group.hubrg.name
 }
 
 output "subnets" {

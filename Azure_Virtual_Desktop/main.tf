@@ -8,13 +8,13 @@ resource "azurerm_virtual_network" "hubrg" {
   location            = var.azure_region
   resource_group_name = azurerm_resource_group.hubrg.name
 
-  address_space = [var.hubrg_address_space]
+  address_space = [var.vnet_hub_address_space]
   dns_servers   = [var.dc_private_ip_address]
 
 }
 
 resource "azurerm_subnet" "subnets" {
-  for_each             = var.hubrg_subnets
+  for_each             = var.vnet_hub_subnets
   name                 = each.key
   resource_group_name  = azurerm_resource_group.hubrg.name
   virtual_network_name = azurerm_virtual_network.hubrg.name
