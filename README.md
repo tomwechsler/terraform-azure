@@ -1,7 +1,7 @@
 # Terraform Azure
 Deploy resources in Microsoft Azure with Terraform!
 
-## Implement-an-AVD-Infrastructure
+## Implement an AVD Infrastructure
 
 Welcome to Implementing an Azure Virtual Desktop Infrastructure. In this Lab I am using PowerShell, Azure PowerShell, Azure CLI and Terraform. All of the exercise files should continue to be valid on the current major version of each platform.
 
@@ -15,7 +15,7 @@ I really do hope you'll follow along and gain some hands on experience with AVD.
 
 * Azure CLI
 * PowerShell 7.x
-* Terraform 1.4.x
+* Terraform 1.8.x
 * Azure subscription
 * Entra ID tenant
 
