@@ -17,7 +17,7 @@ I really do hope you'll follow along and gain some hands on experience with AVD.
 * PowerShell 7.x
 * Terraform 1.4.x
 * Azure subscription
-* Azure AD tenant
+* Entra ID tenant
 
 
 ### Terraform?
