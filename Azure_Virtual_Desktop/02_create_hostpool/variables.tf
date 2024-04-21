@@ -12,7 +12,7 @@ description = "Name of the Resource group in which to deploy service objects"
 variable "workspace" {
 type        = string
 description = "Name of the Azure Virtual Desktop workspace"
-default     = "AVD TF Workspace"
+default     = "AVD-TF-Workspace"
 }
 
 variable "hostpool" {
@@ -23,7 +23,7 @@ default     = "AVD-TF-HP"
 
 variable "rfc3339" {
 type        = string
-default     = "2024-09-30T12:43:13Z"
+default     = "2024-04-30T12:43:13Z"
 description = "Registration token expiration"
 }
 
