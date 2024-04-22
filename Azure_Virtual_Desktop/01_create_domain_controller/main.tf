@@ -1,8 +1,10 @@
+#Create the resource group
 resource "azurerm_resource_group" "hubrg" {
   name     = "hub-rg-${var.azure_region}"
   location = var.azure_region
 }
 
+#Create the virtual network
 resource "azurerm_virtual_network" "hubrg" {
   name                = "vnet-hub-${var.azure_region}"
   location            = var.azure_region
@@ -13,6 +15,7 @@ resource "azurerm_virtual_network" "hubrg" {
 
 }
 
+#Create the subnets
 resource "azurerm_subnet" "subnets" {
   for_each             = var.vnet_hub_subnets
   name                 = each.key
