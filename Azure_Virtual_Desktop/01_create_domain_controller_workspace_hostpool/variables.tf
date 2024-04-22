@@ -40,3 +40,27 @@ variable "dc_ad_netbios_name" {
   description = "(Required) NETBIOS name for the Hub DC"
   type        = string
 }
+
+variable "workspace" {
+  type        = string
+  description = "Name of the Azure Virtual Desktop workspace"
+  default     = "AVD-TF-Workspace"
+}
+
+variable "prefix" {
+  type        = string
+  default     = "avdtf"
+  description = "Prefix of the name of the AVD machine(s)"
+}
+
+variable "hostpool" {
+  type        = string
+  description = "Name of the Azure Virtual Desktop host pool"
+  default     = "AVD-TF-HP"
+}
+
+variable "rfc3339" {
+  type        = string
+  default     = "2024-04-30T12:43:13Z"
+  description = "Registration token expiration"
+}
