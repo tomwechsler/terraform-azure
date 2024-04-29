@@ -1,0 +1,21 @@
+Title,GivenName,Surname,MiddleInitial,StreetAddress,City,State,StateFull,ZipCode,Country,CountryFull,Username,TelephoneNumber,TelephoneCountryCode,Occupation,Department
+Ms.,Mandy,McArthur,F,693 Robinson Lane,Zurich,ZH,Zurich,8000,Switzerland,MaMcArthur,740-400-7084,1,Associate,Finance
+Mr.,Fred,Breeden,I,3536 Big Indian,Zurich,ZH,Zurich,8000,Switzerland,FrBreeden,504-658-4003,1,Associate,Finance
+Mrs.,Patricia,Ortega,J,2725 Jones Street,Zurich,ZH,Zurich,8000,Switzerland,PaOrtega,817-538-8508,1,Associate,Finance
+Mr.,Glen,Edwards,J,3765 Prudence Street,Zurich,ZH,Zurich,8000,Switzerland,GlEdwards,313-280-8223,1,Associate,Finance
+Mr.,Frank,Shaffer,L,4352 Virgil Street,Zurich,ZH,Zurich,8000,Switzerland,FrShaffer,850-273-3008,1,Associate,Finance
+Ms.,Nadine,Willis,W,2036 Cardinal Lane,Luzern,LU,Luzern,6000,Switzerland,NaWillis,217-264-6754,1,Associate,Finance
+Ms.,Monica,Trainor,R,3963 Spinnaker Lane,Luzern,LU,Luzern,6000,Switzerland,MoTrainor,815-766-7362,1,Associate,Information Technology
+Ms.,Mary,Miller,H,2879 Tipple Road,Luzern,LU,Luzern,6000,Switzerland,MaMiller,215-772-2003,1,Associate,Information Technology
+Mr.,Clyde,Bennett,H,3881 Clinton Street,Luzern,LU,Luzern,6000,Switzerland,ClBennett,501-244-2412,1,Associate,Information Technology
+Ms.,Annie,Joe,P,2915 Par Drive,Luzern,LU,Luzern,6000,Switzerland,AnJoe,805-898-9432,1,Associate,Information Technology
+Mrs.,Cynthia,Weeks,K,1662 Travis Street,Luzern,LU,Luzern,6000,Switzerland,CyWeeks,772-871-9012,1,Associate,Information Technology
+Mr.,Daniel,Pellegrino,L,4095 Cimmaron Road,Luzern,LU,Luzern,6000,Switzerland,DaPellegrino,714-588-9739,1,Associate,Accounting
+Ms.,Patricia,Olmstead,R,843 Reppert Coal Road,Luzern,LU,Luzern,6000,Switzerland,PaOlmstead,586-883-1008,1,Associate,Accounting
+Mrs.,June,Long,R,2346 Sundown Lane,Bern,BE,Bern,3000,Switzerland,JuLong,512-301-9440,1,Associate,Accounting
+Dr.,Janet,Aguilar,M,3019 Pursglove Court,Bern,BE,Bern,3000,Switzerland,JaAguilar,937-292-6604,1,Associate,Accounting
+Mr.,John,Cooley,D,2238 Despard Street,Bern,BE,Bern,3000,Switzerland,JoCooley,404-736-1701,1,Associate,Accounting
+Mr.,Timothy,Ellis,E,2857 Sherman Street,Bern,BE,Bern,3000,Switzerland,TiEllis,785-890-5246,1,Associate,Sales
+Mrs.,Diane,Lynch,M,2445 Brooklyn Street,Bern,BE,Bern,3000,Switzerland,DiLynch,540-947-0203,1,Associate,Sales
+Mr.,Maurice,Hawkins,T,3141 Ralph Drive,Bern,BE,Bern,3000,Switzerland,MaHawkins,440-274-6867,1,Associate,Sales
+Mr.,Donovan,Cardona,P,4644 Saint Clair Street,Bern,BE,Bern,3000,Switzerland,DoCardona,662-552-0111,1,Associate,Sales
